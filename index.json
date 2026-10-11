@@ -1,0 +1,11 @@
+{
+  "org": "marshmallow-code",
+  "repo": "django-rest-marshmallow",
+  "versions": [
+    {
+      "commit": "117f89bd5f06de6049dd51d4705d0ccafcc351d7",
+      "tag": "",
+      "parsed_at": "2026-10-11T02:16:58.215081+00:00"
+    }
+  ]
+}
