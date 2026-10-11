@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "marshmallow-code",
+  "repo": "django-rest-marshmallow",
+  "versions": [
+    {
+      "commit": "117f89bd5f06de6049dd51d4705d0ccafcc351d7",
+      "parsed_at": "2026-10-11T02:15:16.319553+00:00",
+      "filetree": "filetree/117f89bd5f06de6049dd51d4705d0ccafcc351d7.nq.gz",
+      "blobs": [
+        "blob/3e4d1db119cf79daca03c032ae62d9d6ec12b367.nq.gz",
+        "blob/c3d0ee9c6c03671112ece7b82ac19b9acf949053.nq.gz",
+        "blob/68a87caec21e9d06ac391ed490b12e547658bcc9.nq.gz",
+        "blob/ae5f7dc100774215b13adc94b046a53425ba795c.nq.gz",
+        "blob/6e5fccc4231b09e17b7755e21d348a2d364e2bfd.nq.gz",
+        "blob/350f00e7ecd87d83f08c5e1ce1bbc17f634732fb.nq.gz",
+        "blob/08f59164cd36cdd8f6e52b0a01da89ae568a554e.nq.gz",
+        "blob/f85a2dbf4a9dcb3517f42278e10c7c5f7c40b7a0.nq.gz",
+        "blob/ae73f8379da88b6686722ff3c0c5a5484e868a70.nq.gz",
+        "blob/fcd39a36b22c635d2c569863671d3f3a73da89ad.nq.gz",
+        "blob/e14d1a7e2c6094e4668ef615eb5ecf9825fa46d2.nq.gz",
+        "blob/c4657ebc3aecbdcb43082cf8402a6776369962a3.nq.gz",
+        "blob/e1d50b87207b8813af433a58d5a2676a32a644e0.nq.gz",
+        "blob/d4388d3a0bb9b103a320b18a03c793b6cd2f86cb.nq.gz",
+        "blob/64da9ebcc2c90c118dce3585d677c63fab21e924.nq.gz",
+        "blob/9a1f6e97a22bc5f62d8e4d75c640cfdfa3560370.nq.gz",
+        "blob/52afaad522617a959e4eaa9ac8b6b07369be0dec.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
