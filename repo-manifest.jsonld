@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/marshmallow-code/django-rest-marshmallow/commit/117f89bd5f06de6049dd51d4705d0ccafcc351d7",
       "git:hexsha": "117f89bd5f06de6049dd51d4705d0ccafcc351d7",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/marshmallow-code/django-rest-marshmallow/commit/5006fbbfc097581768e15c19f3c016e9c92e4475",
